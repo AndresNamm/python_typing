@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": ".venv/bin/python3.8",
+  "python.languageServer": "Pylance",
+  "python.analysis.extraPaths": [ "src/", "src/examples"],
+  "python.analysis.typeCheckingMode":"basic"
+}
